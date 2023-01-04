@@ -1,0 +1,38 @@
+ .container {
+     width: 500px;
+     margin: 0 auto;
+     text-align: center;
+ }
+
+ h1 {
+     color: #000099;
+ }
+
+ form {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin-top: 20px;
+ }
+
+ label {
+     margin-bottom: 10px;
+ }
+
+ input[type="text"] {
+     width: 60%;
+     height: 30px;
+     border: 1px solid #ccc;
+     border-radius: 5px;
+     padding: 5px;
+ }
+
+ input[type="submit"] {
+     width: 20%;
+     height: 35px;
+     background-color: #000099;
+     color: #fff;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+ }
