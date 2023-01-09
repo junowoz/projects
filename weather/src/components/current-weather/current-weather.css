@@ -21,6 +21,7 @@
   line-height: 1;
   margin: 0;
   letter-spacing: 1px;
+  padding-bottom: 3px;
 }
 
 .weather-description {
@@ -39,9 +40,9 @@
 
 .temperature {
     font-weight: 600;
-    font-size: 70px;
+    font-size: 60px;
     width: auto;
-    letter-spacing: -5px;
+    letter-spacing: -2px;
     margin: 10px 0;
 }
 
