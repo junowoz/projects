@@ -1,3 +1,6 @@
-# Welcome to my portfolio projects!
+# Welcome to my portfolio projects
 
-### [1. Weather App](https://weather-kohl-one.vercel.app/) - See the code [*here*](/weather/)
+Simply ckick the project you want to try out to see it live.
+
+### [1. Weather App [React, REST API Integration]](https://weather-kohl-one.vercel.app/)
+### [2. Online Store [React, Redux]]()
